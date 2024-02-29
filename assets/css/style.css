@@ -49,11 +49,25 @@ form {
 }
 
 .btn:hover {
-  box-shadow: 0 4px #2E282A;
+  box-shadow: 0 4px #000000;
   top: 2px;
 }
 
 .btn:active {
   box-shadow: none;
   top: 6px;
+}
+
+footer {
+  background-color: #000000;
+  color: white;
+  font-family: 'Space Mono', monospace;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h3 {
+  color: silver;
+  font-family: "Kode Mono", monospace;
+  text-align: center;
 }
