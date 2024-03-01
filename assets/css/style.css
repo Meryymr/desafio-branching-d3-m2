@@ -31,7 +31,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #9e2807;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
@@ -64,10 +64,17 @@ footer {
   font-family: 'Space Mono', monospace;
   text-align: center;
   margin-top: 50px;
+
 }
 
 h3 {
   color: silver;
+  font-family: "Kode Mono", monospace;
+  text-align: center;
+}
+
+h4 {
+  color: #9e2807;
   font-family: "Kode Mono", monospace;
   text-align: center;
 }
